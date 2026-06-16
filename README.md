@@ -128,7 +128,7 @@ Desenvolvido por **Kauê**.
 
 GitHub:
 
-:contentReference[oaicite:0]{index=0}
+[:contentReference[oaicite:0]{index=0}](https://github.com/callmekaue)
 
 ---
 
